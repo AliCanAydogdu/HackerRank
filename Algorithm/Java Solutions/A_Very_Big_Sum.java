@@ -1,4 +1,4 @@
-//A Very Big Sum
+
 
 import java.io.*;
 import java.util.*;
