@@ -1,4 +1,3 @@
-//flight
 
 public class Flight
 {
