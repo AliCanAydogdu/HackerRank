@@ -7,8 +7,6 @@ public class Coin
 
    private int face;
 
-   //  Sets up the coin by flipping it initially.
-
    public Coin ()
    {
       flip();
