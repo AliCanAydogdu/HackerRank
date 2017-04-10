@@ -1,5 +1,4 @@
 
-
 public class Flight
 {
    private String airline, origin, destination;
