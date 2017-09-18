@@ -12,7 +12,6 @@ public class Coin
       flip();
    }
 
-   //  Flips the coin by randomly choosing a face value.
 
    public void flip ()
    {
