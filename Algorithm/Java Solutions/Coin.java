@@ -18,8 +18,6 @@ public class Coin
       face = (int) (Math.random() * 2);
    }
 
-   //  Returns true if the current face of the coin is heads.
-
    public boolean isHeads ()
    {
       return (face == HEADS);
