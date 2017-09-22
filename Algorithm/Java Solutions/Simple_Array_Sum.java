@@ -1,5 +1,3 @@
-//Given an array of N integers, can you find the sum of its elements?
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
