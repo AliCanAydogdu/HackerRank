@@ -23,7 +23,6 @@ public class Coin
       return (face == HEADS);
    }
 
-   //  Returns the current face of the coin as a string.
 
    public String toString()
    {
