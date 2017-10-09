@@ -3,7 +3,6 @@ public class Flight
 {
    private String airline, origin, destination;
    private int flightNumber;
-   //-----------------------------------------------------------------
    public Flight (String airlineInit, String originInit,
                   String destinationInit, int flightNumberInit)
    {
